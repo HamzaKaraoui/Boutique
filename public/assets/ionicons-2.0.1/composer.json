@@ -1,8 +1,5 @@
 {
-    "post-install-cmd": [
-        "php artisan clear-compiled",
-        "chmod -R 777 public/"
-    ],
+   
     "name": "driftyco/ionicons",
     "license": [
         "MIT"
@@ -38,4 +35,6 @@
     ],
     "homepage": "http://ionicons.com/",
     "description": "The premium icon font for Ionic Framework."
+
+    
 }
